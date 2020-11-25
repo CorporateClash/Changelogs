@@ -185,7 +185,7 @@ Donchado | Kangaroo Sounds
 
 Dr. Mawsh | Former Concept Artist
 
-Drew C. | Various tweaks, orbital camera system
+Drewcification | Former Game Developer
 
 Fleetwire | Former Texture Artist | Former Composer | Former Sound Designer
 
